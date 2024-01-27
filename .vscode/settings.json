@@ -1,0 +1,12 @@
+{
+    "prettier.bracketSameLine": true,
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "editor.formatOnType": true,
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
